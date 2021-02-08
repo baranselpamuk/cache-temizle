@@ -1,4 +1,4 @@
-# Presta Anlık Cache Silme 
+# Anlık Cache Silme 
 
 PHP ile yaptığımız altyapılarda son yapılan işlemin güncellenmesini zaman zaman göremeyebiliriz. Web tarayıcılar, hızlı işlem yapabilmek için sitelerin ön belleklerini kullanırlar ve verileri tutarlar, böylece biz bir defa daha aynı adrese girdiğimizde hızlıca açılır. 
 
